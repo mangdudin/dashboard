@@ -1,3 +1,5 @@
+!pip install streamlit pyngrok
+
 import pandas as pd
 import streamlit as st
 import plotly.express as px
